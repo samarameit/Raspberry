@@ -1,3 +1,14 @@
-La Raspberry Pi es una serie de ordenadores de placa reducida, ordenadores de placa única u ordenadores de placa simple (SBC) de bajo costo desarrollado en el Reino Unido por la Raspberry Pi Foundation, con el objetivo de poner en manos de las personas de todo el mundo el poder de la informática y la creación digital. Si bien el modelo original buscaba la promoción de la enseñanza de informática en las escuelas, este acabó siendo más popular de lo que se esperaba, hasta incluso vendiéndose fuera del mercado objetivo para usos como robótica. No incluye periféricos (como teclado y ratón) o carcasa.
-Aunque no se indica expresamente si es hardware libre o con derechos de marca, en su web oficial explican que disponen de contratos de distribución y venta con dos empresas, pero al mismo tiempo cualquiera puede convertirse en revendedor o redistribuidor de las tarjetas Raspberry Pi], por lo que da a entender que es un producto con propiedad registrada, manteniendo el control de la plataforma, pero permitiendo su uso libre tanto a nivel educativo como particular.
+¿Que és?
+Es un ordenador de bajo coste y formato compacto destinado al desarrollado para hacer accesible la informática a todos los usuarios. La Raspberry Pi también se caracteriza por ser muy utilizada para desarrollar pequeños prototipos y para la formación sobre informática y electrónica en los colegios.
+
+¿Para qué se utiliza?
+La primera Rasberry Pi fue lanzada al mercado en febrero de 2012 de la mano de la Raspberry Pi Foundation. Esta organización nace con la idea de promover y enseñar informática en los centros educativos y universidades de Reino Unido. Para hacerlo lo más accesible posible, desarrollaron este pequeño ordenador de bajo coste y grandes posibilidades. 
+
+¿Cuánto cuesta?
+Hay muchos modelos diferentes de Rasphberry. Los precios son económicos, y más para los empleados para uso doméstico. 
+Aqui dejo algunos modelos y sus respectivos precios:
+  -RASPBERRY PI 4B (39.95€ de 2GB hasta 93€ de 8GB)
+  -RASPBERRY PI ZERO WH (14€)
+  -RASPBERRY PI ZERO (6€)
+
 https://github.com/samarameit/Raspberry/blob/main/fotos/Raspberry-Pi-4.jpg
