@@ -18,3 +18,5 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 [Información instalación](https://unipython.com/instalar-y-usar-un-sistema-operativo-en-raspberry-pi/)
 
 [Información Sobre Rasphberry](https://es.wikipedia.org/wiki/Raspberry_Pi)
+
+https://github.com/samarameit/Raspberry/blob/main/fotos/Reconocimiento-No-Comercial.png
