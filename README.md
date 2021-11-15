@@ -19,4 +19,5 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 
 [Información Sobre Rasphberry](https://es.wikipedia.org/wiki/Raspberry_Pi)
 
-https://github.com/samarameit/Raspberry/blob/main/fotos/Reconocimiento-No-Comercial.png
+![licencia png](https://user-images.githubusercontent.com/94380525/141861435-1a46ecf3-bdbe-4351-8612-c815f3b17153.png)
+
