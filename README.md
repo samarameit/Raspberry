@@ -1,6 +1,4 @@
-# Despliegue de Contenedores con Portainer
-
-El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica
+# INSTALACIÓN DE SISTEMA OPERATIVO EN RASPHBERRY
 
 ## Índice:
 
