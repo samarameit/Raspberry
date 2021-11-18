@@ -18,3 +18,5 @@
 4. Insertar tarjeta en Raspberry
 5. Conectar periféricos y componentes
 6. Encender e instalar Raspbian
+
+![raspian2](https://user-images.githubusercontent.com/94380525/142496328-7964eaeb-3832-4fae-bae2-5d33437ac474.png)
