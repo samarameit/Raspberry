@@ -2,13 +2,13 @@
 
 ## Índice:
 
-1.[Introducción](https://github.com/samarameit/Raspberry/blob/main/Introducci%C3%B3n)
+1.[Introducción](https://github.com/samarameit/Raspberry/blob/main/Introducci%C3%B3n.md)
 
-2.[Rasphberry](https://github.com/samarameit/Raspberry/blob/main/rasphberry)
+2.[Rasphberry](https://github.com/samarameit/Raspberry/blob/main/rasphberry.md)
 
-3.[Instalación](https://github.com/samarameit/Raspberry/blob/main/Instalaci%C3%B3n)
+3.[Instalación](https://github.com/samarameit/Raspberry/blob/main/Instalaci%C3%B3n.md)
 
-4.[Utilización](https://github.com/samarameit/Raspberry/blob/main/Utilizaci%C3%B3n)
+4.[Utilización](https://github.com/samarameit/Raspberry/blob/main/Utilizaci%C3%B3n.md)
 
 
 ## Referencias:
