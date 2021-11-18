@@ -1,10 +1,10 @@
-# INSTALACIÓN DE SISTEMA OPERATIVO EN RASPHBERRY
+# INSTALACIÓN DE SISTEMA OPERATIVO EN RASPBERRY
 
 ## Índice:
 
 1.[Introducción](https://github.com/samarameit/Raspberry/blob/main/Introducci%C3%B3n.md)
 
-2.[Rasphberry](https://github.com/samarameit/Raspberry/blob/main/Rasphberry.md)
+2.[Raspberry](https://github.com/samarameit/Raspberry/blob/main/Raspberry.md)
 
 3.[Instalación](https://github.com/samarameit/Raspberry/blob/main/Instalaci%C3%B3n.md)
 
@@ -15,7 +15,7 @@
 
 [Información instalación](https://unipython.com/instalar-y-usar-un-sistema-operativo-en-raspberry-pi/)
 
-[Información Sobre Rasphberry](https://es.wikipedia.org/wiki/Raspberry_Pi)
+[Información Sobre Raspberry](https://es.wikipedia.org/wiki/Raspberry_Pi)
 
 
 
