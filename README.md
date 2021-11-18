@@ -4,7 +4,7 @@
 
 1.[Introducción](https://github.com/samarameit/Raspberry/blob/main/Introducci%C3%B3n.md)
 
-2.[Rasphberry](https://github.com/samarameit/Raspberry/blob/main/rasphberry.md)
+2.[Rasphberry](https://github.com/samarameit/Raspberry/blob/main/Rasphberry.md)
 
 3.[Instalación](https://github.com/samarameit/Raspberry/blob/main/Instalaci%C3%B3n.md)
 
