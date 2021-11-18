@@ -1,9 +1,7 @@
 # Rasphberry
 
 ## ¿Que és?
-Rasphberry Pi es una placa de microordenador de pequeñas dimensiones a la cual se le pueden dar muchos usos diferentes. Es la placa de un ordenador simple compuesto por un Soc, CPU, memoria RAM, puertos de entrada y salida de audio y vídeo, conectividad de red, ranura SD y toma para la alimentación. Para usarlo hay que conectarle periféricos (teclado, ratón, pantalla) e instalarle un sistema operativo en la tarjeta SD.
-
-Es un ordenador de bajo coste y formato compacto destinado al desarrollado para hacer accesible la informática a todos los usuarios. La Raspberry Pi también se caracteriza por ser muy utilizada para desarrollar pequeños prototipos y para la formación sobre informática y electrónica en los colegios.
+Rasphberry Pi es una placa de microordenador de pequeñas dimensiones a la cual se le pueden dar muchos usos diferentes. Es la placa de un ordenador simple compuesto por un Soc, CPU, memoria RAM, puertos de entrada y salida de audio y vídeo, conectividad de red, ranura SD y toma para la alimentación. Para usarlo hay que conectarle periféricos (teclado, ratón, pantalla) e instalarle un sistema operativo en la tarjeta SD. Se caracteriza por sus bajos precios y por ser muy utilizada para la formación sobre informática y electrónica.
 
 ## ¿Para qué se utiliza?
 Nació en el 2009 como una organización caritativa (Rasphberry Pi Foundation) con el objetivo de animar y enseñar informatica en los centros educativos y universidades. Se puede usar en proyectos de electrónica y para tareas básicas que haría cualquier ordenador. La primera Rasphberry Pi fue lanzada en el 2012 y desde entonces no han parado de salir nuevos modelos. 
