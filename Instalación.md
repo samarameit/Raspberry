@@ -1,15 +1,20 @@
 # Instalación
+ Hay que decidir que sistema operativo vamos a querer instalar. El más usado y recomendado para la Raspberry Pi es Raspbian, un SO basado en Debian (Linux) que está optimizado para su hardware. Aparte existen muchas otras opciones para instalar como Ubuntu, Windows 10 lOt core, etc. Aquí voy a explicar la instalación de Raspbian.
  
- El método más fácil de usar es utilizar el instalador de NOOBS (New Out of Box Software). Si te sientes cómodo, simplemente puedes descargar el sistema operativo ISO, formatear la tarjeta SD, montar la ISO y arrancar el Pi. Si no, sigue estos pasos: 
+ Para proceder a la instalación, necesitamos tener otros componentes además de la Raspberry, que son un ratón, un teclado, un monitor, un cable HDMI, una tarjeta microSD y la fuente de alimentación. Una vez tengamos el material listo seguimos al paso de preparar el sistema operativo.
  
-1º Descargar NOOBS
+ ## Instalar Raspbian con NOOBS
+ Primero accederemos a la página de descarga de software de Raspberry (https://www.raspberrypi.com/software/) y nos descargamos la versión zip. A continuación formateamos la tarjeta microSD (podemos hacerlo en Windows con un programa llamado SD Formatter). 
+ 
+ Después debemos copiar los archivos del fichero zip a nuestra tarjeta microSD, expulsarla e introducirla en la Raspberry. Para finalizar conectaremos los demás componentes y ya podremos arrancarla. 
+ 
+ Al encenderlo, primero nos dejará crear las particiones necesarias y aparecerá un menú con los sistemas operativos disponibles para instalar. Seleccionamos Raspbian y le damos al botón de instalar. Una vez finalizado ya tendremos el menú de arranque de nuestra Raspberry. 
+ 
+## Resumen
 
-2º Formatear la tarjeta SD: Si estás en Windows, puedes usar SD Formatter. 
-
-3º Ahora copiamos todos estos contenidos de NOOBS a nuestra tarjeta SD.
-
-4º Insertar la tarjeta micro SD en la Raspberry Pi
-
-5º Conecte el teclado, el ratón, el cable HDMI al monitor y conecte la fuente de alimentación.
-
-6º Ahora puede elegir el sistema operativo: Existen bastantes opciones para los sistemas operativos de Raspberry Pi, pero la mayoría de las personas eligen Raspbian, que es un sistema operativo basado en Debian que está optimizado específicamente para la Raspberry Pi.
+1. Descargar NOOBS
+2. Formatear tarjeta SD
+3. Copiar archivos del zip a la tarjeta SD
+4. Insertar tarjeta en Raspberry
+5. Conectar periféricos y componentes
+6. Encender e instalar Raspbian
