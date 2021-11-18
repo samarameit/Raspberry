@@ -17,5 +17,5 @@
 
 [Información Sobre Rasphberry](https://es.wikipedia.org/wiki/Raspberry_Pi)
 
-![licencia png](https://user-images.githubusercontent.com/94380525/141861435-1a46ecf3-bdbe-4351-8612-c815f3b17153.png)
+![licencia](https://user-images.githubusercontent.com/94380525/142486036-8716f976-55b9-4c1d-bc33-b0aac52d103f.png)
 
