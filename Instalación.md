@@ -1,4 +1,4 @@
- #Instalación
+# Instalación
  
  El método más fácil de usar es utilizar el instalador de NOOBS (New Out of Box Software). Si te sientes cómodo, simplemente puedes descargar el sistema operativo ISO, formatear la tarjeta SD, montar la ISO y arrancar el Pi. Si no, sigue estos pasos: 
 1º Descargar NOOBS
